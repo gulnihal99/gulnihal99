@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @gulnihal99
 - 👀 I’m interested in data science and machine learning. Health realated engineering programs are also my experties
-- 🌱 I’m currently learning R to improve my data analytic skills beside Python and SQL
+- 🌱 I’m currently coding :)
 - 💞️ I’m looking to collaborate on anything biomedical engineer can do :)
 - 📫 How to reach me: dogangulnihal@gmail.com
 
