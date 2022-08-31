@@ -1,5 +1,4 @@
-- 👋 Hi, I’m @gulnihal99
-- 👀 I’m interested in data science and machine learning. Health realated engineering programs are also my experties
+- 👋 Hi, I’m Gulnihal
 - 🌱 I’m currently coding :)
 - 💞️ I’m looking to collaborate on anything engineer can do :)
 - 📫 How to reach me: dogangulnihal@gmail.com
