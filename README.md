@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Gulnihal
-- 🌱 I’m currently coding :)
-- 💞️ I’m looking to collaborate on anything engineer can do :)
+- 🌱 I’m sharing data analysis and ML methods in my page :)
 - 📫 How to reach me: dogangulnihal@gmail.com
 
 <!---
